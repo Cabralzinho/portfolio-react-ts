@@ -1,5 +1,3 @@
-import React from 'react'
-
 export const ComputerIcon = () => {
   return (
     <svg className='text-5xl'
