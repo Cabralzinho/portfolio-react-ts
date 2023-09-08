@@ -32,7 +32,7 @@ export const NavbarMobile = () => {
         </nav>
       </div>
       {navbarIsOpen ? (
-        <div className="px-2 flex flex-col bg-slate-900/30">
+        <div className="px-2 flex flex-col bg-gray-900">
           <ul
             onClick={() => setNavbarIsOpen(false)}
             className="text-lg divide-y flex flex-col text-gray-200"

@@ -15,7 +15,7 @@ export const StartSection = () => {
           </p>
           <ButtonPrimary className={"flex items-center gap-2 w-fit min-w-[250px] text-lg"}>
             <Icons.Github />
-            <a href='https://github.com/Cabralzinho' target='_blank'>GitHub</a>
+            <a className='w-auto' href='https://github.com/Cabralzinho' target='_blank'>GitHub</a>
           </ButtonPrimary>
         </div>
         <img className='rounded-full w-96 mobile:w-48 animation-float' src={profileImage} alt="" />

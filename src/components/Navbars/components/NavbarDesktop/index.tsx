@@ -18,6 +18,7 @@ export const NavbarDesktop = () => {
           {navbarAnchorsInfo.map((info, index) => {
             return (
               <NavbarDesktopAnchor
+                className="hover:text-gray-100"
                 key={info.href}
                 href={info.href}
                 text={info.label}

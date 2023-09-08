@@ -9,7 +9,7 @@ export const navbarAnchorsInfo = [
   },
   {
     href: "#projects",
-    label: "projetos"
+    label: "Projetos"
   },
   {
     href: "#services",
