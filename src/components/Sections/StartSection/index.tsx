@@ -1,6 +1,6 @@
 import { ButtonPrimary } from '../../ButtonPrimary'
 import { Icons } from '../../Icons'
-import profileImage from "../../../../public/images/photo-me.webp"
+import profileImage from "../../../../public/images/photo.jpeg"
 
 export const StartSection = () => {
   return (
