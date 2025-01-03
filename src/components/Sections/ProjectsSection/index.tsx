@@ -20,9 +20,9 @@ export const ProjectSection = () => {
         <article className='flex flex-col justify-between items-start border-2 border-purple-600 bg-gray-400/30 dark:bg-slate-950 rounded-2xl p-6 gap-6 w-full'>
           <h3>Uma lista de tarefa</h3>
           <p className='text-lg text-gray-800 dark:text-gray-400'>
-            Um projeto de Lista de tarefa feito totalmente em PHP com arquitetura MVC.
+            Um site para cadastro de quartos e pedidos de comida em um hotel utilizando Next, Fastify, Typescript, Tailwind e Prisma.
           </p>
-          <a className='text-xl text-purple-900/90 dark:text-purple-500 hover:text-purple-500' href="https://github.com/Cabralzinho/todo-php">Confira o projeto aqui</a>
+          <a className='text-xl text-purple-900/90 dark:text-purple-500 hover:text-purple-500' href="https://github.com/Cabralzinho/foodhotel">Confira o projeto aqui</a>
         </article>
       </div>
     </section>
