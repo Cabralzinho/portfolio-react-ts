@@ -18,7 +18,7 @@ export const ProjectSection = () => {
           <a className='text-xl text-red-900/90 dark:text-red-500 hover:text-red-600' href="https://github.com/Cabralzinho/anime-wiki-nextjs" target="_blank">Confira o projeto aqui</a>
         </article>
         <article className='flex flex-col justify-between items-start border-2 border-purple-600 bg-gray-400/30 dark:bg-slate-950 rounded-2xl p-6 gap-6 w-full'>
-          <h3>Uma lista de tarefa</h3>
+          <h3>Cadastro de pedidos para um Hotel</h3>
           <p className='text-lg text-gray-800 dark:text-gray-400'>
             Um site para cadastro de quartos e pedidos de comida em um hotel utilizando Next, Fastify, Typescript, Tailwind e Prisma.
           </p>
